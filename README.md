@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29xN2xlb3d0NXM5YW9pcHpqMXpvcG5iNTN6bGt1dWM1bmZhdHQ3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/lyLRTrqRpW8YU/giphy.gif?cid=790b761173myuprl0xd4j665qeinki13u95p00pv86i5wz3b&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -18,8 +18,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=neutronx36&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
