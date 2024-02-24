@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">ℹ️ About Me:<br>- 🌱 Exploring software development with a focus on Java and Python micro projects.<br>- 💻 Computer engineering Diploma Student , passionate about coding 💻.</p>
+<p align="left">ℹ️ About Me:<br><br>- 🌱 Exploring software development with a focus on Java and Python micro projects.<br>- 💻 Computer engineering Diploma Student , passionate about coding 💻.</p>
 
 ###
 
